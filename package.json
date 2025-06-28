@@ -1,7 +1,7 @@
 {
   "name": "airem",
   "version": "0.1.0",
-  "description": "Made things simple",
+  "description": "A TypeScript library for managing transactional workflows",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "module": "src/index.ts",
@@ -27,5 +27,13 @@
   "publishConfig": {
     "access": "public"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abura1han/airem.git"
+  },
+  "homepage": "https://github.com/abura1han/airem#readme",
+  "bugs": {
+    "url": "https://github.com/abura1han/airem/issues"
+  }
 }
